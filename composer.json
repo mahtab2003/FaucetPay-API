@@ -4,10 +4,12 @@
 	"license": "MPL-2.0",
     "type": "library",
     "minimum-stability": "stable",
-	"authors": {
-		"name": "Mahtab Hassan",
-		"email": "mahtabhassan159@gmail.com"
-	},
+	"authors": [
+		{
+			"name": "Mahtab Hassan",
+			"email": "mahtabhassan159@gmail.com"
+		}
+	],
 	"autoload": {
 		"psr-4": {
 			"Mahtab2003\\FaucetPay\\": "src/"
