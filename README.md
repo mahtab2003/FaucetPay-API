@@ -26,7 +26,8 @@ The FaucetPay API exposes the following methods. The available parameters are li
 use \Mahtab2003\FaucetPay\Api;
 
 // Create a new Api class instance.
-$api = new Api('API Key', 'BTC');
+$api = new Api('630c82ef-f9be-4f25-9c3f-da5a2204acde 
+', 'BTC');
 
 // Get the balance of the faucet.
 $response = $api->getBalance();
